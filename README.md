@@ -2,6 +2,7 @@
 Parking Lot Low Level Design
 
 Implemented features till now.
+
 1)Given vehicle id and slot id for booking a slot,it books slot for the vehicle.
 
 2)It provides functionalities for maintenance of parking lot like adding ,removing a parking slot.
